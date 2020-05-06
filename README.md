@@ -9,7 +9,7 @@ Docente: Ph.D. John William Branch
 ### Cronograma  
 
 | Semana | Unidad | Actividades |  
-| --- | --- |  
+| --- | --- | --- |  
 | 1  (9 de mayo) | Introducción | Sincrónica: Sesión Magistral 9:00am – 10:30am  Asincrónica: Asignación de Actividades Complementarias (Lectura, Taller y/o Video). |  
 | 2  (16 de mayo) |  | Sincrónica: Sesión Magistral 3:00pm – 4:30pm  Asincrónica: Asignación de Actividades Complementarias (Lectura, Taller y/o Video). |  
 | 3  (23 de mayo) |  | Sincrónica: Sesión Magistral 3:00pm – 4:30pm  Asincrónica: Asignación de Actividades Complementarias (Lectura, Taller y/o Video). |  
