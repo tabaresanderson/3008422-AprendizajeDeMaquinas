@@ -7,7 +7,8 @@ Universidad Nacional - Sede Medellin
 Docente: Ph.D. John William Branch  
 
 ### Grabaciones  
-Sesión 01: https://drive.google.com/open?id=1zBSlDJCkTllwtkO7QKfFxM3EHwW07jTc
+**Sesión 01**  
+* https://drive.google.com/open?id=1zBSlDJCkTllwtkO7QKfFxM3EHwW07jTc  
 
 <!-- ### Cronograma   -->
 
