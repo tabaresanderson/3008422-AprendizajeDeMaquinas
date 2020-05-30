@@ -6,6 +6,11 @@ Universidad Nacional - Sede Medellin
 
 Docente: Ph.D. John William Branch  
 
+### Envío de Talleres/Trabajos  
+Envío a los 4 correos: edmartinezs@unal.edu.co, alceballosa@unal.edu.co, srobles@unal.edu.co, jwbranch@unal.edu.co  
+Asunto: AM-Taller #<número del taller>  
+Cuerpo: Por favor escribir todos los nombres de los integrantes en el cuerpo del correo  
+
 ### Grabaciones  
 **Sesión 01**  
 * https://drive.google.com/open?id=1zBSlDJCkTllwtkO7QKfFxM3EHwW07jTc  
